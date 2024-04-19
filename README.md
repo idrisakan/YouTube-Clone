@@ -1,3 +1,5 @@
+## YouTube-Clone
+
 ## Kütüphaneler 
 
 - axios
@@ -10,3 +12,5 @@
 ## API
 
 - https://rapidapi.com/ytjar/api/yt-api# YouTube-Clone
+
+<img src="youtube.gif" />
